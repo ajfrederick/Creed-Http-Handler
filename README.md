@@ -1,3 +1,3 @@
 # Http Handler
 
-Classes for elegently handling http events.
+Classes for elegently handling http requests and responses.
